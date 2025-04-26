@@ -1,5 +1,5 @@
 # SAD AI
-# Syslog Anomaly Detection System
+# Syslog Anomaly Detection AI
 
 A machine learning-based system for detecting anomalies in syslog data using a combination of K-Means clustering and InfoNCE contrastive learning.
 
