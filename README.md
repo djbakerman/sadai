@@ -20,6 +20,7 @@ This system continuously monitors syslog events from a Graylog server, learns pa
 - Email and webhook alerts when anomalies are detected
 - Long-term storage of event embeddings in an SQLite database
 - Configurable parameters for threshold tuning and model optimization
+- Reinforcement Learning extension to optimally set the anomaly threshold value
 
 ## Components
 
