@@ -1,4 +1,6 @@
 # alert_manager.py
+# made with love
+
 import logging
 import smtplib
 from email.mime.text import MIMEText
